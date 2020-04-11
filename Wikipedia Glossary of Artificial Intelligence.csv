@@ -141,41 +141,6 @@
 <dt class="glossary" id="autonomous_robot" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Autonomous_robot" title="Autonomous robot">autonomous robot</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Robot" title="Robot">robot</a> that performs <a href="/wiki/Behavior-based_robotics" title="Behavior-based robotics">behaviors</a> or tasks with a high degree of <a href="/wiki/Autonomy" title="Autonomy">autonomy</a>. Autonomous robotics is usually considered to be a subfield of <a href="#artificial_intelligence"><span title="See entry on this page at § artificial intelligence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">artificial intelligence</span></a>, <a href="/wiki/Robotics" title="Robotics">robotics</a>, and <a href="/wiki/Information_engineering_(field)" title="Information engineering (field)">information engineering</a>.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="backpropagation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Backpropagation" title="Backpropagation">backpropagation</a></dfn></dt>
 <dd class="glossary">A method used in <a href="#artificial_neural_network"><span title="See entry on this page at § artificial neural network" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">artificial neural networks</span></a> to calculate a gradient that is needed in the calculation of the <a href="/wiki/Artificial_neural_network#Components_of_an_artificial_neural_network" title="Artificial neural network">weights</a> to be used in the network.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> Backpropagation is shorthand for "the backward propagation of errors", since an error is computed at the output and distributed backwards throughout the network's layers. It is commonly used to train <a href="#deep_neural_network"><span title="See entry on this page at § deep neural network" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deep neural networks</span></a>,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> a term referring to neural networks with more than one hidden layer.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup></dd>
@@ -245,41 +210,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>exhaustive search</b> or <b>generate and test</b>.</span></p>
 <dd class="glossary">A very general <a href="/wiki/Problem-solving" class="mw-redirect" title="Problem-solving">problem-solving</a> technique and <a href="/wiki/Algorithmic_paradigm" title="Algorithmic paradigm">algorithmic paradigm</a> that consists of systematically enumerating all possible candidates for the solution and checking whether each candidate satisfies the problem's statement.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="capsule_neural_network_(capsnet)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Capsule_neural_network" title="Capsule neural network">capsule neural network</a> (CapsNet)</dfn></dt>
 <dd class="glossary">A machine learning system that is a type of <a href="#artificial_neural_network"><span title="See entry on this page at § artificial neural network" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">artificial neural network</span></a> (ANN) that can be used to better model hierarchical relationships. The approach is an attempt to more closely mimic biological neural organization.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;72&#93;</a></sup></dd>
@@ -409,41 +339,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>recombination</b>.</span></p>
 <dd class="glossary">In <a href="#genetic_algorithm"><span title="See entry on this page at § genetic algorithm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genetic algorithms</span></a> and <a href="#evolutionary_computation"><span title="See entry on this page at § evolutionary computation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">evolutionary computation</span></a>, a <a href="/wiki/Genetic_operator" title="Genetic operator">genetic operator</a> used to combine the <a href="/wiki/Chromosome_(genetic_algorithm)" title="Chromosome (genetic algorithm)">genetic information</a> of two parents to generate new offspring. It is one way to stochastically generate new <a href="/wiki/Candidate_solution" class="mw-redirect" title="Candidate solution">solutions</a> from an existing population, and analogous to the <a href="/wiki/Chromosomal_crossover" title="Chromosomal crossover">crossover</a> that happens during <a href="/wiki/Sexual_reproduction" title="Sexual reproduction">sexual reproduction</a> in biological organisms. Solutions can also be generated by <a href="/wiki/Cloning" title="Cloning">cloning</a> an existing solution, which is analogous to <a href="/wiki/Asexual_reproduction" title="Asexual reproduction">asexual reproduction</a>. Newly generated solutions are typically <a href="#mutation"><span title="See entry on this page at § mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mutated</span></a> before being added to the population.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="darkforest" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Darkforest" title="Darkforest">Darkforest</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Computer_go" class="mw-redirect" title="Computer go">computer go</a> program developed by <a href="/wiki/Facebook" title="Facebook">Facebook</a>, based on <a href="#deep_learning"><span title="See entry on this page at § deep learning" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deep learning</span></a> techniques using a <a href="/wiki/Convolutional_neural_network" title="Convolutional neural network">convolutional neural network</a>. Its updated version Darkfores2 combines the techniques of its predecessor with <a href="/wiki/Monte_Carlo_tree_search" title="Monte Carlo tree search">Monte Carlo tree search</a>.<sup id="cite_ref-facebook-paper2_125-0" class="reference"><a href="#cite_note-facebook-paper2-125">&#91;125&#93;</a></sup><sup id="cite_ref-126" class="reference"><a href="#cite_note-126">&#91;126&#93;</a></sup> The MCTS effectively takes tree search methods commonly seen in computer chess programs and randomizes them.<sup id="cite_ref-127" class="reference"><a href="#cite_note-127">&#91;127&#93;</a></sup> With the update, the system is known as Darkfmcts3.<sup id="cite_ref-:2_128-0" class="reference"><a href="#cite_note-:2-128">&#91;128&#93;</a></sup></dd>
@@ -535,41 +430,6 @@
 <dd class="glossary">A logical framework dealing with knowledge and information change. Typically, DEL focuses on situations involving multiple <a href="/wiki/Intelligent_agent" title="Intelligent agent">agents</a> and studies how their knowledge changes when <a href="/wiki/Event_(philosophy)" title="Event (philosophy)">events</a> occur.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="eager_learning" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eager_learning" title="Eager learning">eager learning</a></dfn></dt>
 <dd class="glossary">A learning method in which the system tries to construct a general, input-independent target function during training of the system, as opposed to <a href="/wiki/Lazy_learning" title="Lazy learning">lazy learning</a>, where generalization beyond the training data is delayed until a query is made to the system.<sup id="cite_ref-158" class="reference"><a href="#cite_note-158">&#91;158&#93;</a></sup></dd>
@@ -669,41 +529,6 @@
 <dt class="glossary" id="fuzzy_set" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fuzzy_set" title="Fuzzy set">fuzzy set</a></dfn></dt>
 <dd class="glossary">In classical <a href="/wiki/Set_theory" title="Set theory">set theory</a>, the membership of elements in a set is assessed in binary terms according to a <a href="/wiki/Principle_of_bivalence" title="Principle of bivalence">bivalent condition</a> &#8212; an element either belongs or does not belong to the set. By contrast, fuzzy set theory permits the gradual assessment of the membership of elements in a set; this is described with the aid of a <a href="/wiki/Membership_function_(mathematics)" title="Membership function (mathematics)">membership function</a> valued in the real unit interval [0,&#160;1]. Fuzzy sets generalize classical sets, since the <a href="/wiki/Indicator_function" title="Indicator function">indicator functions</a> (aka <i>characteristic functions</i>) of classical sets are special cases of the membership functions of fuzzy sets, if the latter only take values 0 or 1.<sup id="cite_ref-:0_181-0" class="reference"><a href="#cite_note-:0-181">&#91;181&#93;</a></sup> In fuzzy set theory, classical bivalent sets are usually called <a href="/wiki/Crisp_set" class="mw-redirect" title="Crisp set"><i>crisp</i> sets</a>. The fuzzy set theory can be used in a wide range of domains in which information is incomplete or imprecise, such as <a href="/wiki/Bioinformatics" title="Bioinformatics">bioinformatics</a>.<sup id="cite_ref-182" class="reference"><a href="#cite_note-182">&#91;182&#93;</a></sup></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="game_theory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Game_theory" title="Game theory">game theory</a></dfn></dt>
 <dd class="glossary">The study of <a href="/wiki/Mathematical_model" title="Mathematical model">mathematical models</a> of strategic interaction between rational decision-makers.<sup id="cite_ref-Myerson_183-0" class="reference"><a href="#cite_note-Myerson-183">&#91;183&#93;</a></sup></dd>
@@ -792,41 +617,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>logic tree</b>.</span></p>
 <dd class="glossary">A graphical breakdown of a question that dissects it into its different components vertically and that progresses into details as it reads to the right.<sup id="cite_ref-195" class="reference"><a href="#cite_note-195">&#91;195&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>47</span></sup>  Issue trees are useful in <a href="/wiki/Problem_solving" title="Problem solving">problem solving</a> to identify the root causes of a problem as well as to identify its potential solutions. They also provide a reference point to see how each piece fits into the whole picture of a problem.<sup id="cite_ref-196" class="reference"><a href="#cite_note-196">&#91;196&#93;</a></sup></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="junction_tree_algorithm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Junction_tree_algorithm" title="Junction tree algorithm">junction tree algorithm</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>Clique Tree</b>.</span></p>
@@ -933,41 +723,6 @@
 <dd class="glossary">An early <a href="#backward_chaining"><span title="See entry on this page at § backward chaining" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">backward chaining</span></a> <a href="/wiki/Expert_system" title="Expert system">expert system</a> that used <a href="#artificial_intelligence"><span title="See entry on this page at § artificial intelligence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">artificial intelligence</span></a> to identify bacteria causing severe infections, such as <a href="/wiki/Bacteremia" title="Bacteremia">bacteremia</a> and <a href="/wiki/Meningitis" title="Meningitis">meningitis</a>, and to recommend <a href="/wiki/Antibiotic" title="Antibiotic">antibiotics</a>, with the dosage adjusted for patient's body weight – the name derived from the antibiotics themselves, as many antibiotics have the suffix "-mycin". The MYCIN system was also used for the diagnosis of blood clotting diseases.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="naive_bayes_classifier" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Naive_Bayes_classifier" title="Naive Bayes classifier">naive Bayes classifier</a></dfn></dt>
 <dd class="glossary">In <a href="#machine_learning"><span title="See entry on this page at § machine learning" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">machine learning</span></a>, naive Bayes classifiers are a family of simple <a href="/wiki/Probabilistic_classification" title="Probabilistic classification">probabilistic classifiers</a> based on applying <a href="/wiki/Bayes%27_theorem" title="Bayes&#39; theorem">Bayes' theorem</a> with strong (naive) <a href="/wiki/Statistical_independence" class="mw-redirect" title="Statistical independence">independence</a> assumptions between the features.</dd>
@@ -1110,41 +865,6 @@
 <dt class="glossary" id="python" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></dfn></dt>
 <dd class="glossary">An <a href="/wiki/Interpreted_language" title="Interpreted language">interpreted</a>, <a href="/wiki/High-level_programming_language" title="High-level programming language">high-level</a>, <a href="/wiki/General-purpose_programming_language" title="General-purpose programming language">general-purpose</a> <a href="#programming_language"><span title="See entry on this page at § programming language" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">programming language</span></a> created by <a href="/wiki/Guido_van_Rossum" title="Guido van Rossum">Guido van Rossum</a> and first released in 1991. Python's design philosophy emphasizes <a href="/wiki/Code_readability" class="mw-redirect" title="Code readability">code readability</a> with its notable use of <a href="/wiki/Off-side_rule" title="Off-side rule">significant whitespace</a>. Its language constructs and <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> approach aim to help programmers write clear, logical code for small and large-scale projects.<sup id="cite_ref-258" class="reference"><a href="#cite_note-258">&#91;257&#93;</a></sup></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="qualification_problem" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Qualification_problem" title="Qualification problem">qualification problem</a></dfn></dt>
 <dd class="glossary">In philosophy and artificial intelligence (especially <a href="#knowledge-based_system"><span title="See entry on this page at § knowledge-based system" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">knowledge-based systems</span></a>), the qualification problem is concerned with the impossibility of listing <i>all</i> of the <a href="/wiki/Precondition" title="Precondition">preconditions</a> required for a real-world action to have its intended effect.<sup id="cite_ref-reiter_259-0" class="reference"><a href="#cite_note-reiter-259">&#91;258&#93;</a></sup><sup id="cite_ref-260" class="reference"><a href="#cite_note-260">&#91;259&#93;</a></sup> It might be posed as <i>how to deal with the things that prevent me from achieving my intended result</i>. It is strongly connected to, and opposite the <a href="/wiki/Ramification_problem" title="Ramification problem">ramification side</a> of, the <a href="/wiki/Frame_problem" title="Frame problem">frame problem</a>.<sup id="cite_ref-reiter_259-1" class="reference"><a href="#cite_note-reiter-259">&#91;258&#93;</a></sup></dd>
@@ -1308,41 +1028,6 @@
 <dt class="glossary" id="systems_neuroscience" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Systems_neuroscience" title="Systems neuroscience">systems neuroscience</a></dfn></dt>
 <dd class="glossary">A subdiscipline of <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a> and <a href="/wiki/Systems_biology" title="Systems biology">systems biology</a> that studies the structure and function of neural circuits and systems.  It is an umbrella term, encompassing a number of areas of study concerned with how <a href="/wiki/Neuron" title="Neuron">nerve cells</a> behave when connected together to form <a href="/wiki/Neural_pathway" title="Neural pathway">neural pathways</a>, <a href="/wiki/Neural_circuit" title="Neural circuit">neural circuits</a>, and larger <a href="/wiki/Large_scale_brain_networks" class="mw-redirect" title="Large scale brain networks">brain networks</a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="technological_singularity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Technological_singularity" title="Technological singularity">technological singularity</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also simply <b>the singularity</b>.</span></p>
