@@ -26,4 +26,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 This repository uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">"Glossary of artificial intelligence"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
 
-To see this work https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
+To see this work in full go to https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
